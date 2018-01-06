@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1509325476624.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3777120638",
+    "id" : "29ABDFDD",
+    "lastKnownWriteTime" : 1509332462,
+    "last_content_update" : 1509332462253,
+    "path" : "D:/Rvisualize/barplot/Piechart.R",
+    "project_path" : "Piechart.R",
+    "properties" : {
+        "cursorPosition" : "9,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

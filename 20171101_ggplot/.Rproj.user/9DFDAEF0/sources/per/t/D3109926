@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1509507373656.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D3109926",
+    "lastKnownWriteTime" : 1509506418,
+    "last_content_update" : 1509507373656,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "7A346D27",
+        "caption" : "seoul",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=seoul&cache_key=7A346D27",
+        "displayedObservations" : "188",
+        "environment" : "",
+        "object" : "seoul",
+        "preview" : "0",
+        "totalObservations" : "188",
+        "variables" : "15"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

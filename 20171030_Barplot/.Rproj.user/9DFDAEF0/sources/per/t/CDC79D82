@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1509329653574.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1287580882",
+    "id" : "CDC79D82",
+    "lastKnownWriteTime" : 1509334820,
+    "last_content_update" : 1509334820684,
+    "path" : "D:/Rvisualize/barplot/jeju.R",
+    "project_path" : "jeju.R",
+    "properties" : {
+        "cursorPosition" : "46,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1509071518615.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1507297001",
+    "id" : "E4BF46BC",
+    "lastKnownWriteTime" : 1509074091,
+    "last_content_update" : 1509074091414,
+    "path" : "D:/Rvisualize/FunctionAndBarplot/plot.R",
+    "project_path" : "plot.R",
+    "properties" : {
+        "cursorPosition" : "13,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1509068037951.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "33552817",
+    "id" : "11FEB5F4",
+    "lastKnownWriteTime" : 1509071516,
+    "last_content_update" : 1509071516214,
+    "path" : "D:/Rvisualize/FunctionAndBarplot/trainAnalysis.R",
+    "project_path" : "trainAnalysis.R",
+    "properties" : {
+        "cursorPosition" : "37,19",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

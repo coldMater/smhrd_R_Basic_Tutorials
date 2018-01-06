@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1509506505592.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4066648328",
+    "id" : "1124A34A",
+    "lastKnownWriteTime" : 1509511886,
+    "last_content_update" : 1509511886936,
+    "path" : "D:/Rvisualize/ggplot/ggmap_publicData_accident.R",
+    "project_path" : "ggmap_publicData_accident.R",
+    "properties" : {
+        "cursorPosition" : "13,49",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

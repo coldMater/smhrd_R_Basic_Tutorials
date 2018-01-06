@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1509327915544.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2621924581",
+    "id" : "F2EF4EA1",
+    "lastKnownWriteTime" : 1508980430,
+    "last_content_update" : 1508980430,
+    "path" : "D:/Rvisualize/20171031_TextMining_Exam01_President/TextMining_President_wordcloud.R",
+    "project_path" : "TextMining_President_wordcloud.R",
+    "properties" : {
+        "cursorPosition" : "23,4",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

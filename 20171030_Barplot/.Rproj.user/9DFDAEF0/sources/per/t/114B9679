@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1509332468822.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3544041114",
+    "id" : "114B9679",
+    "lastKnownWriteTime" : 1509334877,
+    "last_content_update" : 1509334877467,
+    "path" : "D:/Rvisualize/barplot/jeju_withTeacher.R",
+    "project_path" : "jeju_withTeacher.R",
+    "properties" : {
+        "cursorPosition" : "18,44",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

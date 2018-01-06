@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1509411784021.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "778755620",
+    "id" : "C6C869A5",
+    "lastKnownWriteTime" : 1509426132,
+    "last_content_update" : 1509426132551,
+    "path" : "D:/Rvisualize/20171031_map/barplot/barplot_hospital_UsingFor.R",
+    "project_path" : "barplot/barplot_hospital_UsingFor.R",
+    "properties" : {
+        "cursorPosition" : "32,0",
+        "scrollLine" : "19",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
