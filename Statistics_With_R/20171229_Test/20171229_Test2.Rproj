@@ -1,0 +1,27 @@
+data <- c(32,22,21,15,40,55,57,66,79,88,77,86,87,99,97,45,89,69,97,87)
+min(data)
+
+data_sort <- sort(data)
+summary(data_sort)
+var(data_sort)
+sd(data_sort)
+
+#Question 04
+
+variable <- c(0,5,10,15,20)
+probability <- c(0.06,0.12,0.62,0.15,0.05)
+XxP <- variable*probability
+# ∑x*P(X=x) , 기댓값 E
+E <- sum(XxP) 
+
+#(∑(x-E)^2)/(n-1), 분산 V
+V <- sum((variable-E)^2)/(length(variable)-1)
+
+#sigma = √(V)
+sigma <- sqrt(V)
+
+
+#Question 05
+dbinom(16,20,0.8)
+
+1-dbinom(4,20,0.8)
